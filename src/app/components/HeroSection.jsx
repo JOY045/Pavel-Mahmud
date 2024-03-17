@@ -39,7 +39,7 @@ const HeroSection = () => {
           </p>
           <div>
              <a
-              href="/cv.pdf"
+              href="/Pabel Mahmud.pdf"
               download="Pabel_Mahmud_CV.pdf"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-purple-400 to-indigo-600 text-white"
             >
