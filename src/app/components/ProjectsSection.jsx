@@ -846,11 +846,11 @@ const ProjectsSection = () => {
           name="Cash Cow"
           isSelected={tag === "Cash Cow"}
         />
-        <ProjectTag
+        {/* <ProjectTag
           onClick={handleTagChange}
           name="Images"
           isSelected={tag === "Images"}
-        />
+        /> */}
         <ProjectTag
           onClick={handleTagChange}
           name="Logo"
@@ -866,11 +866,11 @@ const ProjectsSection = () => {
           name="News"
           isSelected={tag === "News"}
         />
-        <ProjectTag
+        {/* <ProjectTag
           onClick={handleTagChange}
           name="Printing"
           isSelected={tag === "Printing"}
-        />
+        /> */}
         <ProjectTag
           onClick={handleTagChange}
           name="Talk Show"
