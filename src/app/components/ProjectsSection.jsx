@@ -817,7 +817,7 @@ const projectsData = [
   },
   {
     id: 82,
-    title: "Facebook Post",
+    title: "Facebook Post Biriyani Moshla",
     description: "",
     image: "/images/projects/Biriyani Moshla.jpg",
     tag: ["Social Media"],
@@ -827,7 +827,7 @@ const projectsData = [
   },
   {
     id: 83,
-    title: "Facebook Post",
+    title: "Facebook Post Honey",
     description: "",
     image: "/images/projects/Honey.jpg",
     tag: ["Social Media"],
@@ -837,7 +837,7 @@ const projectsData = [
   },
   {
     id: 84,
-    title: "Facebook Post",
+    title: "Facebook Post Oil",
     description: "",
     image: "/images/projects/Oil.jpg",
     tag: ["Social Media"],
@@ -847,7 +847,7 @@ const projectsData = [
   },
   {
     id: 85,
-    title: "Facebook Post",
+    title: "Facebook Post Coconut Oil",
     description: "",
     image: "/images/projects/Coconut Oil.jpg",
     tag: ["Social Media"],
@@ -857,7 +857,7 @@ const projectsData = [
   },
   {
     id: 86,
-    title: "Facebook Post",
+    title: "Facebook Post Mothers Day",
     description: "",
     image: "/images/projects/Mothers Day 2024.jpg",
     tag: ["Social Media"],
@@ -867,7 +867,7 @@ const projectsData = [
   },
   {
     id: 87,
-    title: "Facebook Post",
+    title: "Facebook Post Womens Day",
     description: "",
     image: "/images/projects/Womens Day 2024.jpg",
     tag: ["Social Media"],
@@ -877,7 +877,7 @@ const projectsData = [
   },
   {
     id: 88,
-    title: "Facebook Post",
+    title: "Facebook Post World Earth Day",
     description: "",
     image: "/images/projects/World Earth Day.jpg",
     tag: ["Social Media"],
@@ -887,7 +887,7 @@ const projectsData = [
   },
   {
     id: 89,
-    title: "Facebook Post",
+    title: "Facebook Post Buddha Purnima",
     description: "",
     image: "/images/projects/Buddha Purnima 2024.jpg",
     tag: ["Social Media"],
