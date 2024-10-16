@@ -7,10 +7,17 @@ const IndexPage = () => {
       <h1 className="text-center text-4xl font-bold mt-4 mb-8 md:mb-12">Work Experiences</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-12">
         <ExperienceCard
+          company="Furniture Concept"
+          position="Visualize Brand & Communication"
+          details="Editing video on Adobe Premier Pro & creating motion graphics for Offer & Campaigns."
+          time="January 2024 - September 2024"
+          // image="../../../public/images/220577192_4231188316927457_276293184630894842_n.png"
+        />
+        <ExperienceCard
           company="Soft IT Care"
           position="Video & Motion Graphics Designer"
           details="Editing video on Adobe Premier Pro & creating motion graphics for Offer & Campaigns."
-          time="February 2023 - Current"
+          time="February 2023 - December 2023"
           // image="../../../public/images/220577192_4231188316927457_276293184630894842_n.png"
         />
         <ExperienceCard
